@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="179.21313mm"
+   height="90.60437mm"
+   viewBox="0 0 179.21314 90.604373"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="keyboard-dell-05.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4855"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4793"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4795"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4213"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="191.32833"
+     inkscape:cy="172.38044"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(7.7603369,-80.523041)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12888908;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4166"
+       width="179.21313"
+       height="90.60437"
+       x="-7.7603369"
+       y="80.523041"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(7.7603369,-80.523041)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297"
+       sodipodi:type="arc"
+       sodipodi:cx="67.105438"
+       sodipodi:cy="136.95494"
+       sodipodi:rx="3.5358782"
+       sodipodi:ry="3.5397313"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 70.639644,137.0638 a 3.5358782,3.5397313 0 0 1 -3.637091,3.42937 3.5358782,3.5397313 0 0 1 -3.431661,-3.63536 3.5358782,3.5397313 0 0 1 3.625713,-3.44142 3.5358782,3.5397313 0 0 1 3.443682,3.62395"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3"
+       sodipodi:type="arc"
+       sodipodi:cx="83.644234"
+       sodipodi:cy="136.95494"
+       sodipodi:rx="3.5358782"
+       sodipodi:ry="3.5397313"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 87.178439,137.0638 a 3.5358782,3.5397313 0 0 1 -3.637091,3.42937 3.5358782,3.5397313 0 0 1 -3.431661,-3.63536 3.5358782,3.5397313 0 0 1 3.625714,-3.44142 3.5358782,3.5397313 0 0 1 3.443682,3.62395"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335"
+       width="29.655748"
+       height="2.1695127"
+       x="60.375858"
+       y="128.61945"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337"
+       width="10.835755"
+       height="5.3666892"
+       x="70.413185"
+       y="123.7095"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 63.404114,136.60387 H 33.77078"
+       id="path4586"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 116.88775,136.60387 H 87.254411"
+       id="path4586-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.78347"
+       y="109.7393"
+       id="text4497-4-2"
+       transform="scale(0.9994556,1.0005447)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0"
+         x="61.78347"
+         y="109.7393"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.03805733px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.28222224px">Tecla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="14.183579"
+       y="128.43799"
+       id="text4497-4-2-6"
+       transform="scale(0.9994556,1.0005447)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0-7"
+         x="14.183579"
+         y="128.43799"
+         style="font-size:9.03805733px;line-height:1.25;fill:#008000;stroke-width:0.28222224px">Fila</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.24403"
+       y="128.70511"
+       id="text4497-4-2-6-5"
+       transform="scale(0.9994556,1.0005447)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0-7-3"
+         x="107.24403"
+         y="128.70511"
+         style="font-size:9.03805733px;line-height:1.25;fill:#0000ff;stroke-width:0.28222224px">Columna</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.02877212px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.372742"
+       y="152.00523"
+       id="text4497-4-2-6-56"
+       transform="scale(0.9994556,1.0005447)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0-7-2"
+         x="75.372742"
+         y="152.00523"
+         style="font-size:5.41421986px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px">Esquema eléctrico</tspan><tspan
+         sodipodi:role="line"
+         x="75.372742"
+         y="158.77301"
+         style="font-size:5.41421986px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:0.28222224px"
+         id="tspan1117">de una tecla</tspan></text>
+  </g>
+</svg>
