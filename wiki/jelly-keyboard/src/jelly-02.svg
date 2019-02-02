@@ -1,0 +1,3169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="262.03275mm"
+   height="213.96486mm"
+   viewBox="0 0 262.03275 213.96486"
+   version="1.1"
+   id="svg861"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="jelly-02.svg">
+  <defs
+     id="defs855">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6215"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6103"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-7-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-31"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-31-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-8-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-7-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6215-7-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71000443"
+     inkscape:cx="599.34611"
+     inkscape:cy="359.98162"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata858">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back-frame"
+     transform="translate(41.003517,9.9445636)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4355"
+       width="261.50357"
+       height="213.4357"
+       x="-40.738934"
+       y="-9.6799803"
+       ry="1.6719335"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(41.003517,9.9445636)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297"
+       sodipodi:type="arc"
+       sodipodi:cx="25.184166"
+       sodipodi:cy="53.789085"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 26.71921,53.835546 a 1.5357707,1.5106721 0 0 1 -1.579731,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.574789,-1.468716 1.5357707,1.5106721 0 0 1 1.495727,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3"
+       sodipodi:type="arc"
+       sodipodi:cx="32.367615"
+       sodipodi:cy="53.789085"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 33.902659,53.835546 a 1.5357707,1.5106721 0 0 1 -1.579732,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 23.576535,53.639259 H 16.318274 V 34.006781"
+       id="path4586"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.159506,53.639259 h -7.22385"
+       id="path4586-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-108.1265"
+       y="-21.578075"
+       id="text4497-4-2-6"
+       transform="matrix(0,-0.9994556,1.0005447,0,0,0)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0-7"
+         x="-108.1265"
+         y="-21.578075"
+         style="font-size:9.03805733px;line-height:1.25;fill:#008000;stroke-width:0.28222224px">Filas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.059219"
+       y="9.0052948"
+       id="text4497-4-2-6-5"
+       transform="scale(0.9994556,1.0005447)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-0-7-3"
+         x="80.059219"
+         y="9.0052948"
+         style="font-size:9.03805733px;line-height:1.25;fill:#0000ff;stroke-width:0.28222224px">Columnas</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.4009044,34.00678 H 198.12294"
+       id="path1575"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579"
+       cx="16.347469"
+       cy="33.881325"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="35.476765"
+       id="text1583"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581"
+         x="-4.0090427"
+         y="35.476765"
+         style="fill:#008000;stroke-width:0.26458332">R0</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499125,31.601356 h 5.345391 l 2.40542602,2.405425 -2.24013802,2.128562 h -5.477269 z"
+       id="path1585"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.284641"
+       y="23.610516"
+       id="text1583-3"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-5"
+         x="41.284641"
+         y="23.610516"
+         style="fill:#0000ff;stroke-width:0.26458332">C8</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.326095,19.094408 v 5.345391 l -4.166589,3.140417 -3.841902,-2.975129 v -5.477269 z"
+       id="path1585-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 41.159506,27.580218 V 187.59739"
+       id="path1615"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2"
+       cx="41.199406"
+       cy="53.630581"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="98.086159"
+       y="44.75531"
+       id="text4156-2-6-0-1-7-6-9-2"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4158-2-1-6-5-6-5-4-9"
+         x="98.086159"
+         y="45.635048"
+         style="font-size:4.1595211px;line-height:1.25;stroke-width:0.28222224px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.766785"
+       y="23.610525"
+       id="text1583-3-2"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-5-0"
+         x="70.766785"
+         y="23.610525"
+         style="fill:#0000ff;stroke-width:0.26458332">C9</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.808237,19.094417 v 5.345391 l -4.166589,3.140417 -3.841902,-2.975129 v -5.477269 z"
+       id="path1585-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.641645,27.580256 V 187.59744"
+       id="path1615-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8"
+       sodipodi:type="arc"
+       sodipodi:cx="84.148453"
+       sodipodi:cy="53.789093"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 85.683497,53.835553 a 1.5357707,1.5106721 0 0 1 -1.579732,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546617"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9"
+       sodipodi:type="arc"
+       sodipodi:cx="91.331909"
+       sodipodi:cy="53.789093"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 92.866953,53.835553 a 1.5357707,1.5106721 0 0 1 -1.579731,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546617"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7"
+       width="12.880655"
+       height="0.92589587"
+       x="81.225525"
+       y="50.231705"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3"
+       width="4.7063937"
+       height="2.2903736"
+       x="85.585144"
+       y="48.136261"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 82.540815,53.639269 h -7.25826 V 34.00679"
+       id="path4586-0-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 100.1238,53.639269 H 92.899945"
+       id="path4586-3-9-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2"
+       cx="75.311752"
+       cy="33.881336"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text1583-3-2-4-5"
+       y="23.610525"
+       x="130.5611"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="fill:#0000ff;stroke-width:0.26458332"
+         y="23.610525"
+         x="130.5611"
+         id="tspan1581-5-0-7-5"
+         sodipodi:role="line">C18</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1585-6-2-8-4"
+       d="m 134.60254,19.094417 v 5.345391 l -4.16658,3.140417 -3.84191,-2.975129 v -5.477269 z"
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1615-3-4-7"
+       d="M 130.43595,27.580256 V 187.59743"
+       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="53.630589"
+       cx="130.47586"
+       id="path1579-2-7-5-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 145.47781,53.835549 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463573 1.5357707,1.5106721 0 0 1 -1.49051,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468717 1.5357707,1.5106721 0 0 1 1.49573,1.546617"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="53.789089"
+       sodipodi:cx="143.94276"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 152.66126,53.835549 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463573 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468717 1.5357707,1.5106721 0 0 1 1.49572,1.546617"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="53.789089"
+       sodipodi:cx="151.12622"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="50.231705"
+       x="141.01984"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="48.136261"
+       x="145.37946"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7"
+       d="m 142.33512,53.639268 h -7.25826 V 34.00679"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4"
+       d="m 159.91811,53.639268 h -7.22386"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="33.881336"
+       cx="135.10606"
+       id="path1579-8-2-3-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text1583-3-2-4-5-7"
+       y="23.610525"
+       x="160.76254"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="fill:#0000ff;stroke-width:0.26458332"
+         y="23.610525"
+         x="160.76254"
+         id="tspan1581-5-0-7-5-8"
+         sodipodi:role="line">C19</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1585-6-2-8-4-6"
+       d="m 164.804,19.094417 v 5.345391 l -4.16658,3.140417 -3.84191,-2.975129 v -5.477269 z"
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1615-3-4-7-8"
+       d="M 160.63741,27.580256 V 187.59743"
+       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="53.630585"
+       cx="160.67731"
+       id="path1579-2-7-5-6-8"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text1583-3-2-4-5-7-5"
+       y="23.610525"
+       x="190.42946"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="fill:#0000ff;stroke-width:0.26458332"
+         y="23.610525"
+         x="190.42946"
+         id="tspan1581-5-0-7-5-8-0"
+         sodipodi:role="line">C13</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1585-6-2-8-4-6-4"
+       d="m 194.47092,19.094417 v 5.345391 l -4.16658,3.140417 -3.84191,-2.975129 v -5.477269 z"
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1615-3-4-7-8-8"
+       d="M 190.30433,27.580256 V 187.59743"
+       style="fill:none;stroke:#0000ff;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.70097"
+       y="23.610525"
+       id="text1583-3-2-4"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-5-0-7"
+         x="100.70097"
+         y="23.610525"
+         style="fill:#0000ff;stroke-width:0.26458332">C17</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.74242,19.094417 v 5.345391 l -4.16658,3.140417 -3.841907,-2.975129 v -5.477269 z"
+       id="path1585-6-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 100.57583,27.580256 V 187.59744"
+       id="path1615-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-7-5"
+       cx="100.61574"
+       cy="53.630592"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08264"
+       sodipodi:cy="53.789093"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.61769,53.835553 a 1.5357707,1.5106721 0 0 1 -1.57974,1.463572 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49573,1.546617"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="53.789093"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,53.835553 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463572 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49572,1.546617"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="50.231705"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="48.136261"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,53.639269 h -7.25826 V 34.00679"
+       id="path4586-0-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.05799,53.639269 h -7.22386"
+       id="path4586-3-9-1-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3"
+       cx="105.24594"
+       cy="33.881336"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="314.50574"
+       y="43.887085"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-5-9"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-9-6"
+         x="314.50574"
+         y="44.791077"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="341.52533"
+       y="43.932938"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-7-8"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-5-3"
+         x="341.52533"
+         y="44.836929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-0"
+       sodipodi:type="arc"
+       sodipodi:cx="25.184168"
+       sodipodi:cy="79.714226"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 26.719212,79.760686 a 1.5357707,1.5106721 0 0 1 -1.579731,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.574789,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-5"
+       sodipodi:type="arc"
+       sodipodi:cx="32.367615"
+       sodipodi:cy="79.714226"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 33.902659,79.760686 a 1.5357707,1.5106721 0 0 1 -1.579732,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 23.576535,79.5644 H 16.318274 V 59.931922"
+       id="path4586-02"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.159505,79.5644 h -7.22385"
+       id="path4586-3-94"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090443,59.931921 H 198.12294"
+       id="path1575-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-6"
+       cx="16.347469"
+       cy="59.806465"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="61.401905"
+       id="text1583-9"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-4"
+         x="-4.0090427"
+         y="61.401905"
+         style="fill:#008000;stroke-width:0.26458332">R1</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499126,57.526497 h 5.3453912 l 2.40542597,2.405425 -2.24013807,2.128562 h -5.4772691 z"
+       id="path1585-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-2"
+       cx="41.199409"
+       cy="79.555717"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-88"
+       sodipodi:type="arc"
+       sodipodi:cx="54.666313"
+       sodipodi:cy="79.714226"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 56.201357,79.760686 a 1.5357707,1.5106721 0 0 1 -1.579731,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-92"
+       sodipodi:type="arc"
+       sodipodi:cx="61.849766"
+       sodipodi:cy="79.714226"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 63.38481,79.760686 a 1.5357707,1.5106721 0 0 1 -1.579732,1.463572 1.5357707,1.5106721 0 0 1 -1.490505,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.495726,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4076"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="76.156837"
+         x="51.743389"
+         height="0.92589587"
+         width="12.880655"
+         id="rect4335-2-8"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="74.061394"
+         x="56.102993"
+         height="2.2903736"
+         width="4.7063937"
+         id="rect4337-7-8"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 53.058677,79.5644 H 45.800418 V 59.931922"
+       id="path4586-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 70.64165,79.5644 H 63.4178"
+       id="path4586-3-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-7-4"
+       cx="70.681541"
+       cy="79.555733"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="79.555733"
+       cx="130.47585"
+       id="path1579-2-7-5-6-2"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 145.47781,79.760694 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463572 1.5357707,1.5106721 0 0 1 -1.49051,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49573,1.546616"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="79.714233"
+       sodipodi:cx="143.94276"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 152.66126,79.760694 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463572 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49572,1.546616"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="79.714233"
+       sodipodi:cx="151.12622"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="76.156845"
+       x="141.01984"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9-2"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="74.061401"
+       x="145.37946"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7-5"
+       d="m 142.33512,79.564409 h -7.25825 V 59.931931"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4-8"
+       d="m 159.91812,79.564409 h -7.22386"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="59.806477"
+       cx="135.10606"
+       id="path1579-8-2-3-5-7"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="79.555725"
+       cx="160.67731"
+       id="path1579-2-7-5-6-8-1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0-9"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08264"
+       sodipodi:cy="79.714233"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.61769,79.760694 a 1.5357707,1.5106721 0 0 1 -1.57974,1.463572 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49573,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3-2"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="79.714233"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,79.760694 a 1.5357707,1.5106721 0 0 1 -1.57973,1.463572 1.5357707,1.5106721 0 0 1 -1.4905,-1.551486 1.5357707,1.5106721 0 0 1 1.57479,-1.468716 1.5357707,1.5106721 0 0 1 1.49572,1.546616"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6-8"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="76.156845"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1-30"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="74.061401"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,79.56441 h -7.25826 V 59.931931"
+       id="path4586-0-6-0-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.05799,79.56441 h -7.22386"
+       id="path4586-3-9-1-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3-8"
+       cx="105.24595"
+       cy="59.806477"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4076-1"
+       transform="translate(-29.293155)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="76.156837"
+         x="51.743389"
+         height="0.92589587"
+         width="12.880655"
+         id="rect4335-2-8-1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="74.061394"
+         x="56.102993"
+         height="2.2903736"
+         width="4.7063937"
+         id="rect4337-7-8-7"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-6-7-5-2-3-6-2-0"
+       width="10.746009"
+       height="10.728716"
+       x="52.796486"
+       y="61.692696"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.24919581px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57.979298"
+       y="61.240368"
+       id="text4152-9-9-9-7-7-6-8-3-1-64-4-4"
+       transform="scale(0.94941056,1.0532851)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-0-1-7-3-3-1-9-9-9-7-0"
+         x="57.979298"
+         y="61.240368"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.36396933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">Back</tspan><tspan
+         sodipodi:role="line"
+         x="57.979298"
+         y="64.195328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.36396933px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px"
+         id="tspan2759">space</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="118.39268"
+       y="63.38615"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-6"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-4"
+         x="118.39268"
+         y="63.38615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">`</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="117.96866"
+       y="69.092896"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-8"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-0"
+         x="117.96866"
+         y="69.092896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.08047"
+       y="69.047043"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-5-1-8"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-9-9-1"
+         x="123.08047"
+         y="69.047043"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">#</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-7-1"
+       cx="45.778469"
+       cy="59.806477"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-0-5"
+       sodipodi:type="arc"
+       sodipodi:cx="25.184172"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 26.719216,105.84105 a 1.5357707,1.5106721 0 0 1 -1.579732,1.46358 1.5357707,1.5106721 0 0 1 -1.490505,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.495726,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-5-5"
+       sodipodi:type="arc"
+       sodipodi:cx="32.367615"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 33.902659,105.84105 a 1.5357707,1.5106721 0 0 1 -1.579732,1.46358 1.5357707,1.5106721 0 0 1 -1.490505,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.495726,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 23.576535,105.64476 H 16.318274 V 86.01228"
+       id="path4586-02-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.159505,105.64476 h -7.22385"
+       id="path4586-3-94-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090435,86.012279 H 198.12294"
+       id="path1575-4-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-6-7"
+       cx="16.347469"
+       cy="85.886826"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="87.482262"
+       id="text1583-9-0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-4-3"
+         x="-4.0090427"
+         y="87.482262"
+         style="fill:#008000;stroke-width:0.26458332">R2</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499127,83.606855 h 5.345391 l 2.40542605,2.405425 -2.24013805,2.128562 h -5.477269 z"
+       id="path1585-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-2-6"
+       cx="41.199413"
+       cy="105.63608"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-7-7"
+       sodipodi:type="arc"
+       sodipodi:cx="84.148453"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 85.683497,105.84105 a 1.5357707,1.5106721 0 0 1 -1.579732,1.46358 1.5357707,1.5106721 0 0 1 -1.490505,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.495726,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-6-2"
+       sodipodi:type="arc"
+       sodipodi:cx="91.331917"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 92.866961,105.84105 a 1.5357707,1.5106721 0 0 1 -1.579731,1.46358 1.5357707,1.5106721 0 0 1 -1.490506,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.495726,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-8-5"
+       width="12.880655"
+       height="0.92589587"
+       x="81.225525"
+       y="102.23721"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-9-8"
+       width="4.7063937"
+       height="2.2903736"
+       x="85.585144"
+       y="100.14176"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 82.540815,105.64477 H 75.282556 V 86.012289"
+       id="path4586-0-6-06-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 100.1238,105.64477 H 92.899948"
+       id="path4586-3-9-1-8-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-7-2"
+       cx="75.31176"
+       cy="85.886833"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="105.63609"
+       cx="130.47586"
+       id="path1579-2-7-5-6-2-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 145.47781,105.84105 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.49051,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49573,1.54662"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="105.79459"
+       sodipodi:cx="143.94276"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5-6-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 152.66126,105.84105 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49572,1.54662"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="105.79459"
+       sodipodi:cx="151.12622"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6-5-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="102.23721"
+       x="141.01984"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9-2-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="100.14176"
+       x="145.37946"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3-6-7"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7-5-1"
+       d="m 142.33512,105.64477 h -7.25825 V 86.012289"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4-8-3"
+       d="m 159.91812,105.64477 h -7.22386"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="85.886833"
+       cx="135.10606"
+       id="path1579-8-2-3-5-7-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="105.63609"
+       cx="160.67731"
+       id="path1579-2-7-5-6-8-1-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-7-5-3-5"
+       cx="100.61575"
+       cy="105.63609"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0-9-0"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08265"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.61769,105.84105 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49572,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3-2-8"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="105.79459"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,105.84105 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49572,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6-8-0"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="102.23721"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1-30-4"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="100.14176"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,105.64477 h -7.25826 V 86.012289"
+       id="path4586-0-6-0-1-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.05799,105.64477 h -7.22386"
+       id="path4586-3-9-1-6-7-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3-8-3"
+       cx="105.24596"
+       cy="85.886833"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="276.67834"
+       y="94.403488"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-4"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-2"
+         x="276.67834"
+         y="95.30748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <g
+       id="g4076-1-1"
+       transform="translate(-29.293155,26.080359)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="76.156837"
+         x="51.743389"
+         height="0.92589587"
+         width="12.880655"
+         id="rect4335-2-8-1-3"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="74.061394"
+         x="56.102993"
+         height="2.2903736"
+         width="4.7063937"
+         id="rect4337-7-8-7-7"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.67673278px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.6237"
+       y="86.569084"
+       id="text4152-9-9-9-7-7-6-8-3-1-64-2-4-3-9"
+       transform="scale(0.94892984,1.0538187)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-0-1-7-3-3-1-9-9-9-5-3-7-5"
+         x="119.6237"
+         y="86.569084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.81332302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">F4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="212.02751"
+       y="88.656319"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-5-1-4-0"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-1-7-7-5"
+         x="212.02751"
+         y="89.403656"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.45392"
+       y="94.403488"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-6-0-9-85"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-6-6-7-5"
+         x="211.45392"
+         y="95.30748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090469,110.20275 H 198.12294"
+       id="path1575-4-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="111.67274"
+       id="text1583-9-0-0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-4-3-3"
+         x="-4.0090427"
+         y="111.67274"
+         style="fill:#008000;stroke-width:0.26458332">R3</tspan></text>
+    <circle
+       r="0.80319941"
+       cy="129.82657"
+       cx="130.47588"
+       id="path1579-2-7-5-6-2-4-8"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 145.47782,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="129.98508"
+       sodipodi:cx="143.94278"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5-6-7-4"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 152.66126,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="129.98508"
+       sodipodi:cx="151.12622"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6-5-6-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="126.42769"
+       x="141.01984"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9-2-5-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="124.33224"
+       x="145.37946"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3-6-7-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7-5-1-6"
+       d="m 142.33513,129.83524 h -7.25825 v -19.63248"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4-8-3-8"
+       d="m 159.91813,129.83524 h -7.22386"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="110.0773"
+       cx="135.10606"
+       id="path1579-8-2-3-5-7-3-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="129.82657"
+       cx="160.67732"
+       id="path1579-2-7-5-6-8-1-3-8"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 175.67927,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.49051,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49573,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="129.98508"
+       sodipodi:cx="174.14423"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5-4-0-8-8"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 182.86271,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.49051,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49573,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="129.98508"
+       sodipodi:cx="181.32767"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6-3-4-5-3"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7-9-0-8-5"
+       d="m 172.53659,129.83524 h -7.25825 v -19.63248"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4-2-8-7-2"
+       d="m 190.11959,129.83524 h -7.22387"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="110.0773"
+       cx="165.30753"
+       id="path1579-8-2-3-5-0-6-6-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="129.82655"
+       cx="190.34424"
+       id="path1579-2-7-5-6-8-7-9-3-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0-9-0-5"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08265"
+       sodipodi:cy="129.98508"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.61769,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3-2-8-7"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="129.98508"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,130.03154 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6-8-0-3"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="126.42769"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1-30-4-2"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="124.33224"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,129.83524 h -7.25826 v -19.63248"
+       id="path4586-0-6-0-1-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.058,129.83524 h -7.22387"
+       id="path4586-3-9-1-6-7-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3-8-3-1"
+       cx="105.24596"
+       cy="110.0773"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499127,107.89183 h 5.345391 l 2.40542605,2.40542 -2.24013805,2.12856 h -5.477269 z"
+       id="path1585-2-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-0-5-9-5"
+       sodipodi:type="arc"
+       sodipodi:cx="25.184175"
+       sodipodi:cy="153.79758"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 26.71922,153.84404 a 1.5357707,1.5106721 0 0 1 -1.579732,1.46357 1.5357707,1.5106721 0 0 1 -1.490505,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.495726,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-5-5-0-9"
+       sodipodi:type="arc"
+       sodipodi:cx="32.367615"
+       sodipodi:cy="153.79758"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 33.902659,153.84404 a 1.5357707,1.5106721 0 0 1 -1.579732,1.46357 1.5357707,1.5106721 0 0 1 -1.490505,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.495726,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 23.576535,153.64773 h -7.25826 v -19.63248"
+       id="path4586-02-4-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.159505,153.64773 h -7.22385"
+       id="path4586-3-94-9-9-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090471,134.01525 H 198.12294"
+       id="path1575-4-2-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-6-7-8-6"
+       cx="16.347471"
+       cy="133.8898"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="135.48524"
+       id="text1583-9-0-0-9"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-4-3-3-2"
+         x="-4.0090427"
+         y="135.48524"
+         style="fill:#008000;stroke-width:0.26458332">R4</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-2-2-6-7-9"
+       cx="41.199417"
+       cy="153.63905"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="153.63907"
+       cx="130.47588"
+       id="path1579-2-7-5-6-2-4-8-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 145.47782,153.84404 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="153.79758"
+       sodipodi:cx="143.94278"
+       sodipodi:type="arc"
+       id="path4297-9-8-0-5-6-7-4-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       d="m 152.66126,153.84404 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="1.5106721"
+       sodipodi:rx="1.5357707"
+       sodipodi:cy="153.79758"
+       sodipodi:cx="151.12622"
+       sodipodi:type="arc"
+       id="path4297-3-1-9-3-6-5-6-5-9"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="150.24019"
+       x="141.01984"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9-2-5-6-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="148.14474"
+       x="145.37946"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3-6-7-5-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-0-6-0-7-5-1-6-1"
+       d="m 142.33513,153.64774 h -7.25825 v -19.63248"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:connector-curvature="0"
+       id="path4586-3-9-1-6-4-8-3-8-1"
+       d="m 159.91813,153.64774 h -7.22386"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="0.80319941"
+       cy="133.8898"
+       cx="135.10606"
+       id="path1579-8-2-3-5-7-3-4-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="0.80319941"
+       cy="153.63907"
+       cx="160.67732"
+       id="path1579-2-7-5-6-8-1-3-8-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0-9-0-5-4"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08266"
+       sodipodi:cy="153.79758"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.6177,153.84404 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.49051,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49573,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3-2-8-7-4"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="153.79758"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,153.84404 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46357 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46871 1.5357707,1.5106721 0 0 1 1.49572,1.54661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6-8-0-3-4"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="150.24019"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1-30-4-2-9"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="148.14474"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,153.64774 h -7.25826 v -19.63248"
+       id="path4586-0-6-0-1-1-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.058,153.64774 h -7.22387"
+       id="path4586-3-9-1-6-7-1-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3-8-3-1-8"
+       cx="105.24596"
+       cy="133.8898"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499126,131.70433 h 5.345391 l 2.40542595,2.40542 -2.24013795,2.12856 h -5.477269 z"
+       id="path1585-2-4-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090471,158.96168 H 198.12294"
+       id="path1575-4-2-8-4-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-4.0090427"
+       y="160.43167"
+       id="text1583-9-0-0-9-9"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1581-4-3-3-2-1"
+         x="-4.0090427"
+         y="160.43167"
+         style="fill:#008000;stroke-width:0.26458332">R5</tspan></text>
+    <circle
+       r="0.80319941"
+       cy="178.58549"
+       cx="130.47588"
+       id="path1579-2-7-5-6-2-4-8-6-3"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-9-8-0-9-0-5-4-0"
+       sodipodi:type="arc"
+       sodipodi:cx="114.08266"
+       sodipodi:cy="178.744"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 115.6177,178.79046 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.49051,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49573,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4297-3-1-9-3-2-8-7-4-8"
+       sodipodi:type="arc"
+       sodipodi:cx="121.2661"
+       sodipodi:cy="178.744"
+       sodipodi:rx="1.5357707"
+       sodipodi:ry="1.5106721"
+       sodipodi:start="0.030759508"
+       sodipodi:end="0.024128479"
+       sodipodi:open="true"
+       d="m 122.80114,178.79046 a 1.5357707,1.5106721 0 0 1 -1.57973,1.46358 1.5357707,1.5106721 0 0 1 -1.4905,-1.55149 1.5357707,1.5106721 0 0 1 1.57479,-1.46872 1.5357707,1.5106721 0 0 1 1.49572,1.54662"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4335-2-7-6-8-0-3-4-6"
+       width="12.880655"
+       height="0.92589587"
+       x="111.15971"
+       y="175.18661"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4337-7-3-1-30-4-2-9-8"
+       width="4.7063937"
+       height="2.2903736"
+       x="115.51933"
+       y="173.09117"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28222224;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 112.475,178.59417 h -7.25826 v -19.63248"
+       id="path4586-0-6-0-1-1-7-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28200001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.058,178.59417 h -7.22387"
+       id="path4586-3-9-1-6-7-1-2-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1579-8-2-3-8-3-1-8-8"
+       cx="105.24596"
+       cy="158.83623"
+       r="0.80319941"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -7.3499126,156.65076 h 5.345391 l 2.40542595,2.40542 -2.24013795,2.12856 h -5.477269 z"
+       id="path1585-2-4-2-5-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.0053587px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.046894"
+       y="156.63715"
+       id="text4152-9-9-9-7-7-6-8-3-1-64-2-4-3-9-9-7-7-6"
+       transform="scale(0.95575293,1.0462955)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-0-1-7-3-3-1-9-9-9-5-3-7-5-4-7-3-8"
+         x="25.046894"
+         y="156.63715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10768962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">Bloq</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.0053587px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.046894"
+       y="159.51088"
+       id="text4152-9-9-9-7-7-6-8-3-1-64-2-4-3-9-9-7-7-6-6"
+       transform="scale(0.95575294,1.0462955)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-0-1-7-3-3-1-9-9-9-5-3-7-5-4-7-3-8-3"
+         x="25.046894"
+         y="159.51088"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10768962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">Despl</tspan></text>
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.40090471,182.58519 H 198.12294"
+       id="path1575-4-2-8-4-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="342.47186"
+       y="187.78096"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-0-07-2-9"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-2-77-2-8"
+         x="342.47186"
+         y="188.52829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="342.12274"
+       y="206.37114"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-9-3-7-9-6"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/PS2-KeyBoard-FPGA/wiki/ps2-keyboard-17.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-6-8-1-7-9"
+         x="342.12274"
+         y="207.11847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3"
+       width="10.746009"
+       height="10.728716"
+       x="23.51446"
+       y="35.75518"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.230526"
+       y="43.11002"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5"
+         x="25.230526"
+         y="43.11002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">Home</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28.742041"
+       y="38.668472"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5"
+         x="28.742041"
+         y="38.668472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">7</tspan></text>
+    <g
+       transform="translate(-29.399648,-1.2933104e-6)"
+       id="g2620-6"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-07.png"
+         y="50.231697"
+         x="51.743385"
+         height="0.92589587"
+         width="12.880655"
+         id="rect4335-2-2"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-07.png"
+         y="48.136253"
+         x="56.102993"
+         height="2.2903736"
+         width="4.7063937"
+         id="rect4337-7-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7"
+       width="10.746009"
+       height="10.728716"
+       x="23.92705"
+       y="61.375496"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28.483698"
+       y="64.060112"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1"
+         x="28.483698"
+         y="64.060112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">4</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 31.388445,68.949122 -2.71337,0.0139 -0.007,-0.8303 -1.26481,1.01171 1.22949,1.05357 0.0141,-0.80238 h 2.74163 z"
+       id="path5679-4-7-6-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1"
+       width="10.746009"
+       height="10.728716"
+       x="23.92705"
+       y="87.835182"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.169638"
+       y="89.834526"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7"
+         x="29.169638"
+         y="89.834526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.161394"
+       y="94.03421"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3"
+         x="27.161394"
+         y="94.03421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">End</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-3-4-0"
+       width="10.746009"
+       height="10.728716"
+       x="23.832556"
+       y="135.74231"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.16417789px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.664459"
+       y="134.45605"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-0-8-1-9-3-5-0"
+       transform="scale(0.96704737,1.0340755)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="27.664459"
+         y="134.45605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27461338px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px"
+         id="tspan3227-3-3-4-0-1-4">Num</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.16417789px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27.664459"
+       y="137.19746"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-0-8-1-9-3-5-0-7"
+       transform="scale(0.96704737,1.0340755)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="27.664459"
+         y="137.19746"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27461338px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px"
+         id="tspan3227-3-3-4-0-1-4-5">Lock</tspan></text>
+    <g
+       transform="translate(-29.671127,73.98884)"
+       id="g4076-3-9-0-60"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="76.156837"
+         x="51.743389"
+         height="0.92589587"
+         width="12.880655"
+         id="rect4335-2-8-3-2-3-62"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/keyboard-dell-06.png"
+         y="74.061394"
+         x="56.102993"
+         height="2.2903736"
+         width="4.7063937"
+         id="rect4337-7-8-4-1-3-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 60.209129,69.610581 -2.71337,0.0139 -0.007,-0.8303 -1.26481,1.01171 1.22949,1.05357 0.0141,-0.80238 h 2.74163 z"
+       id="path5679-4-7-6-8-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-8"
+       width="10.746009"
+       height="10.728716"
+       x="82.581024"
+       y="35.75518"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="89.054199"
+       y="40.873211"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-2"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-0"
+         x="89.054199"
+         y="40.873211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">+</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-2"
+       width="10.746009"
+       height="10.728716"
+       x="82.891335"
+       y="87.835182"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.981743"
+       y="91.25032"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-5"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-9"
+         x="86.981743"
+         y="91.25032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">Enter</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-2"
+       width="10.746009"
+       height="10.728716"
+       x="112.24794"
+       y="35.75518"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.80891"
+       y="43.11002"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-2"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-8"
+         x="116.80891"
+         y="43.11002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">PG UP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.17417"
+       y="38.668472"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-9"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-7"
+         x="120.17417"
+         y="38.668472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">9</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-36"
+       width="10.746009"
+       height="10.728716"
+       x="112.37348"
+       y="61.375496"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="119.28166"
+       y="64.060112"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-1"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-2"
+         x="119.28166"
+         y="64.060112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">6</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 115.84973,68.949123 2.71338,0.0139 0.007,-0.8303 1.26481,1.01171 -1.22949,1.05357 -0.0141,-0.80238 h -2.74163 z"
+       id="path5679-4-7-6-8-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-2-3"
+       width="10.746009"
+       height="10.728716"
+       x="112.24794"
+       y="87.726906"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.80891"
+       y="93.467239"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-2-1"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-8-9"
+         x="116.80891"
+         y="93.467239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">PG DN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.17417"
+       y="89.106239"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-9-4"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-7-7"
+         x="120.17417"
+         y="89.106239"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">3</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8"
+       width="10.746009"
+       height="10.728716"
+       x="112.7201"
+       y="112.15671"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.61446"
+       y="112.19148"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2-4"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7-5"
+         x="120.61446"
+         y="112.19148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="118.80125"
+       y="117.60019"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-0"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-3"
+         x="118.80125"
+         y="117.60019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">DEL</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8-6"
+       width="10.746009"
+       height="10.728716"
+       x="112.7201"
+       y="135.9437"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.3753376px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="120.2675"
+       y="139.42598"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-0-6"
+       transform="scale(0.97174136,1.0290804)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-3-3"
+         x="120.2675"
+         y="139.42598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59860611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">*</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-8-2"
+       width="10.746009"
+       height="10.728716"
+       x="112.8493"
+       y="160.90413"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.09603119px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.11422"
+       y="237.8979"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-2-0"
+       transform="scale(1.4211439,0.7036585)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-0-6"
+         x="82.11422"
+         y="237.8979"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.35607576px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">-</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-2-1"
+       width="10.746009"
+       height="10.728716"
+       x="142.39154"
+       y="35.75518"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.23453"
+       y="38.668472"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-9-47"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-7-6"
+         x="151.23453"
+         y="38.668472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">8</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 147.68065,45.493691 0.0132,-2.532067 -0.77141,-0.0065 0.93995,-1.180293 0.97885,1.147332 -0.74548,0.01316 v 2.558427 z"
+       id="path5679-4-7-6-8-0-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-2-1-6"
+       width="10.746009"
+       height="10.728716"
+       x="142.39154"
+       y="61.947594"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.23453"
+       y="64.087807"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-9-47-9"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-7-6-3"
+         x="151.23453"
+         y="64.087807"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">5</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-1-3-2-1-4"
+       width="10.746009"
+       height="10.728716"
+       x="142.39154"
+       y="87.872742"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.48002791px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.23453"
+       y="89.247765"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-8-1-73-3-9-47-5"
+       transform="scale(0.97048475,1.0304129)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-1-1-1-5-7-6-2"
+         x="151.23453"
+         y="89.247765"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6576097px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">2</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 147.68065,93.892456 0.0132,2.532067 -0.77141,0.0065 0.93995,1.180293 0.97885,-1.147332 -0.74548,-0.01316 v -2.558426 z"
+       id="path5679-4-7-6-8-0-9-5-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8-4"
+       width="10.746009"
+       height="10.728716"
+       x="142.20224"
+       y="112.15671"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="150.49242"
+       y="113.38809"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2-4-7"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7-5-4"
+         x="150.49242"
+         y="113.38809"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="149.81377"
+       y="117.60019"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-0-4"
+       transform="scale(0.96893488,1.0320611)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-3-30"
+         x="149.81377"
+         y="117.60019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.0237608px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">INS</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8-6-7"
+       width="10.746009"
+       height="10.728716"
+       x="142.52065"
+       y="135.9437"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.3753376px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="151.41599"
+       y="138.51697"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-2-67-9-0-6-8"
+       transform="scale(0.97174138,1.0290804)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-0-5-3-3-3-6"
+         x="151.41599"
+         y="138.51697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.59860611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">/</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ececec;fill-opacity:1;stroke:#333333;stroke-width:0.28222224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-3-0-6-6-9-2-1-3-8-6-5-4-93-9-7-1-8-4-8"
+       width="10.746009"
+       height="10.728716"
+       x="172.81831"
+       y="112.15671"
+       ry="2.3071883"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.47124577px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="180.68779"
+       y="113.38809"
+       id="text4152-9-47-19-7-9-1-1-4-6-0-7-5-8-0-7-9-5-3-3-8-7-9-3-2-4-7-8"
+       transform="scale(0.97410147,1.0265871)"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4154-4-75-6-0-4-7-4-2-8-3-3-2-7-4-7-4-6-1-8-0-8-6-1-7-5-4-4"
+         x="180.68779"
+         y="113.38809"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.64837956px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke:#4d4d4d;stroke-width:0.28222221px">00</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="126.42769"
+       x="170.82039"
+       height="0.92589587"
+       width="12.880655"
+       id="rect4335-2-7-6-9-2-5-6-4"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
+       y="124.33224"
+       x="175.18001"
+       height="2.2903736"
+       width="4.7063937"
+       id="rect4337-7-3-1-3-6-7-5-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.28222221;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
