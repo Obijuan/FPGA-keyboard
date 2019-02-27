@@ -14,7 +14,7 @@
    viewBox="0 0 225.14037 213.96488"
    version="1.1"
    id="svg861"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="jelly-02.svg">
   <defs
      id="defs855">
@@ -177,17 +177,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71000443"
-     inkscape:cx="469.16375"
+     inkscape:cx="221.98219"
      inkscape:cy="464.53979"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      fit-margin-top="0"
@@ -202,7 +202,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2404,14 +2404,6 @@
          x="25.046894"
          y="159.51088"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.10768962px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0.28222221px">Despl</tspan></text>
-    <path
-       style="fill:none;stroke:#008000;stroke-width:0.48308405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.40090465,182.58519 H 165.185"
-       id="path1575-4-2-8-4-3-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-02.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.87695312px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.28222221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
