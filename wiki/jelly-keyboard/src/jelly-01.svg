@@ -15,8 +15,11 @@
    viewBox="0 0 338.89774 228.78271"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="jelly-01.svg">
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="jelly-01.svg"
+   inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-pinout-01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,16 +29,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="756.60426"
-     inkscape:cy="428.30468"
+     inkscape:zoom="0.35"
+     inkscape:cx="418.35332"
+     inkscape:cy="656.82249"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,7 +97,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00156498px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="35.618183"
+       x="25.034849"
        y="32.206573"
        id="text829-6"
        inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-01.png"
@@ -102,11 +105,11 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan827-2"
-         x="35.618179"
+         x="26.072138"
          y="32.206573"
          style="fill:#0000ff;stroke-width:0.26458332">C8 C9 <tspan
    style="fill:#008000"
-   id="tspan987">R5 R4 R3 R2 R1 R0</tspan> C17 C18 C19 C13</tspan></text>
+   id="tspan987">R5 R4 R3 R2 R1 R0</tspan> C17 C18 C19 </tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -41.961314,35.075861 -8.8198943,63.139163"
@@ -206,14 +209,12 @@
        inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 112.25297,34.886865 81.894394,62.194221"
-       id="path989-6-1-8-7-9-2-0-2-3-7-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/jelly-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.38124997, 2.38124997;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834"
+       width="10.690775"
+       height="10.824415"
+       x="78.236916"
+       y="61.770416" />
   </g>
 </svg>
