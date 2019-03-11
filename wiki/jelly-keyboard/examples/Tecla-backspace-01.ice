@@ -77,6 +77,22 @@
             "width": 112,
             "height": 32
           }
+        },
+        {
+          "id": "d5b9ed2e-6700-49b3-88da-a30c4ef325b1",
+          "type": "basic.info",
+          "data": {
+            "info": "**Ejemplo 1**: Prueba de la tecla backspace",
+            "readonly": true
+          },
+          "position": {
+            "x": 376,
+            "y": 232
+          },
+          "size": {
+            "width": 360,
+            "height": 72
+          }
         }
       ],
       "wires": [
