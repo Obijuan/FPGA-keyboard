@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="388.43464"
-     inkscape:cy="184.96833"
+     inkscape:cx="277.6559"
+     inkscape:cy="241.30174"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -20173,5 +20173,30 @@
            id="tspan7546-7-3-2-7-6"
            sodipodi:role="line">C17</tspan></text>
     </g>
+    <rect
+       style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.84381312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect12406-5-6-9"
+       width="15.416167"
+       height="7.7001734"
+       x="159.9926"
+       y="-13.805779"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-enter-01.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.47834921px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40489683"
+       x="167.75954"
+       y="-7.6606302"
+       id="text7548-0-4-1-2"
+       inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-enter-01.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan7546-6-7-8-0"
+         x="167.75954"
+         y="-7.6606302"
+         style="stroke-width:0.40489683">D7</tspan></text>
   </g>
 </svg>
