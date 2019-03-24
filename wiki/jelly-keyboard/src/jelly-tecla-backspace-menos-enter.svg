@@ -26,22 +26,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="714.12494"
-     inkscape:cy="354.98835"
+     inkscape:zoom="0.35"
+     inkscape:cx="576.86528"
+     inkscape:cy="650.21178"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g944"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -366,16 +367,16 @@
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-02.png"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-enter-02.png"
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="rect4653-9-3-5-3-6-6-62"
-         d="m 62.084778,235.48112 8.600373,7.71161 32.906799,0.26727 v 18.13788 l -39.297102,-0.26727 v -18.13788 0 z"
+         d="m 62.084778,235.48112 8.600373,7.71161 36.381299,0.26727 v 18.13788 l -42.771602,-0.26727 v -18.13788 0 z"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-02.png"
+         inkscape:export-filename="/home/obijuan/develop/FPGA-keyboard/wiki/jelly-keyboard/tecla-back-menos-enter-02.png"
          id="text4657-1-6-3-5-7-2-9"
          y="251.14986"
          x="67.108101"
@@ -390,7 +391,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"
            y="258.44464"
            x="67.108101"
-           sodipodi:role="line">Backspace</tspan></text>
+           sodipodi:role="line">tecla ENTER</tspan></text>
     </g>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
