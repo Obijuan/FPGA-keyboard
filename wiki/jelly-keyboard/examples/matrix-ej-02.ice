@@ -59,8 +59,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "2"
+                "name": "D1",
+                "value": "1"
               }
             ],
             "virtual": false
@@ -183,7 +183,7 @@
             "readonly": true
           },
           "position": {
-            "x": -1184,
+            "x": -1176,
             "y": -136
           },
           "size": {
@@ -199,7 +199,7 @@
             "readonly": true
           },
           "position": {
-            "x": -1120,
+            "x": -1112,
             "y": -176
           },
           "size": {
