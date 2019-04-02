@@ -27,7 +27,7 @@
           },
           "position": {
             "x": 320,
-            "y": -104
+            "y": -56
           }
         },
         {
@@ -243,7 +243,7 @@
             "readonly": true
           },
           "position": {
-            "x": -352,
+            "x": -456,
             "y": -200
           },
           "size": {
@@ -456,6 +456,38 @@
           },
           "size": {
             "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "8eb7ca0f-3b3a-4f4f-9ffc-8bbc8f281ab1",
+          "type": "basic.info",
+          "data": {
+            "info": "Cualquier tecla apretada  \nsalvo NuLock",
+            "readonly": true
+          },
+          "position": {
+            "x": 720,
+            "y": 176
+          },
+          "size": {
+            "width": 208,
+            "height": 56
+          }
+        },
+        {
+          "id": "1e95b019-7358-4053-b05c-01eb3450ae25",
+          "type": "basic.info",
+          "data": {
+            "info": "Envío del carácter  \nASCII por el puerto  \nserie",
+            "readonly": true
+          },
+          "position": {
+            "x": 968,
+            "y": -56
+          },
+          "size": {
+            "width": 168,
             "height": 64
           }
         }
