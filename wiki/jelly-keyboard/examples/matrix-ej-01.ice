@@ -157,18 +157,6 @@
           }
         },
         {
-          "id": "8e9abc23-6cd7-4e8c-805c-95c209559708",
-          "type": "d6fd1e4b5651ad35d997036bbc337c1cfa8127c8",
-          "position": {
-            "x": -1760,
-            "y": -24
-          },
-          "size": {
-            "width": 96,
-            "height": 160
-          }
-        },
-        {
           "id": "9ba8145f-587c-4550-856b-b8b3c796d0f9",
           "type": "basic.info",
           "data": {
@@ -215,12 +203,24 @@
             "width": 168,
             "height": 48
           }
+        },
+        {
+          "id": "a130dc3e-f7e7-44b1-95f2-3b43295e674c",
+          "type": "97c52593abafad82e721b16938a1d7d0bb970ed0",
+          "position": {
+            "x": -1760,
+            "y": -24
+          },
+          "size": {
+            "width": 96,
+            "height": 160
+          }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "8e9abc23-6cd7-4e8c-805c-95c209559708",
+            "block": "a130dc3e-f7e7-44b1-95f2-3b43295e674c",
             "port": "b603fff0-ba56-4cfd-b47e-7ca0aa8fe5f0"
           },
           "target": {
@@ -231,7 +231,7 @@
         },
         {
           "source": {
-            "block": "8e9abc23-6cd7-4e8c-805c-95c209559708",
+            "block": "a130dc3e-f7e7-44b1-95f2-3b43295e674c",
             "port": "ef15efb1-89f4-4395-90f5-e76ad05ba080"
           },
           "target": {
@@ -241,7 +241,7 @@
         },
         {
           "source": {
-            "block": "8e9abc23-6cd7-4e8c-805c-95c209559708",
+            "block": "a130dc3e-f7e7-44b1-95f2-3b43295e674c",
             "port": "cce168a0-486a-4155-92b4-5dad198ab344"
           },
           "target": {
@@ -256,7 +256,7 @@
             "port": "out"
           },
           "target": {
-            "block": "8e9abc23-6cd7-4e8c-805c-95c209559708",
+            "block": "a130dc3e-f7e7-44b1-95f2-3b43295e674c",
             "port": "012d2f62-864a-44a9-9441-5c91b59a9d5a"
           },
           "size": 5
@@ -265,10 +265,10 @@
     }
   },
   "dependencies": {
-    "d6fd1e4b5651ad35d997036bbc337c1cfa8127c8": {
+    "97c52593abafad82e721b16938a1d7d0bb970ed0": {
       "package": {
-        "name": "jelly-kbd-controller",
-        "version": "0.1",
+        "name": "jelly-kbd-controller CLONE",
+        "version": "0.1-c1715343889028",
         "description": "Controlador para teclado matricial Jelly",
         "author": "Juan Gonzalez-Gómez (obijuan)",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22288.637%22%20height=%22297.456%22%20viewBox=%220%200%2076.3686%2078.701782%22%3E%3Cg%20transform=%22translate(-46.409%20-48.394)%22%3E%3Ctext%20style=%22line-height:0%25%22%20x=%2298.086%22%20y=%2244.755%22%20font-weight=%22400%22%20font-size=%223.387%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#ff0%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22314.506%22%20y=%2243.887%22%20transform=%22scale(.97048%201.03041)%22%20font-weight=%22400%22%20font-size=%223.48%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22341.525%22%20y=%2243.933%22%20transform=%22scale(.97048%201.03041)%22%20font-weight=%22400%22%20font-size=%223.48%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22276.678%22%20y=%2294.403%22%20transform=%22scale(.97048%201.03041)%22%20font-weight=%22400%22%20font-size=%223.48%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22212.028%22%20y=%2288.656%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%222.877%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22211.454%22%20y=%2294.403%22%20transform=%22scale(.97048%201.03041)%22%20font-weight=%22400%22%20font-size=%223.48%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22342.472%22%20y=%22187.781%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%222.877%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22342.123%22%20y=%22206.371%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%222.877%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%20stroke-width=%22.282%22/%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2020.596%2034.298)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2253.381%22%20x=%2246.022%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.96893%201.03206)%22%20y=%2272.042%22%20x=%2249.807%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2272.042%22%20x=%2249.807%22%20font-size=%227.258%22%3EHome%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%2261.331%22%20x=%2258.253%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2261.331%22%20x=%2258.253%22%20font-size=%228.779%22%3E7%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2019.994%2027.91)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2292.523%22%20x=%2247.012%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.9741%201.02659)%22%20y=%22100.386%22%20x=%2257.672%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22100.386%22%20x=%2257.672%22%20font-size=%228.757%22%3E4%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M64.922%20110.702l-6.513.033-.017-1.993-3.036%202.429%202.951%202.529.034-1.926h6.58z%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2019.844%2023.447)%22%20stroke-width=%22.677%22%3E%3Crect%20width=%2225.793%22%20height=%2225.752%22%20x=%2247.012%22%20y=%22128.204%22%20ry=%225.538%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%2259.319%22%20y=%22135.143%22%20transform=%22scale(.9741%201.02659)%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20x=%2259.319%22%20y=%22135.143%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%228.757%22%3E1%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:0%25%22%20x=%2254.441%22%20y=%22145.651%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20x=%2254.441%22%20y=%22145.651%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%227.258%22%3EEnd%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2019.994%20-66.468)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22202.143%22%20x=%2246.785%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#f2f2f2%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.96705%201.03408)%22%20y=%22203.131%22%20x=%2255.628%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%225.195%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22203.131%22%20x=%2255.628%22%20font-size=%225.46%22%3ENum%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.96705%201.03408)%22%20y=%22209.711%22%20x=%2255.628%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%225.195%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22209.711%22%20x=%2255.628%22%20font-size=%225.46%22%3ELock%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2045.756%20-4.06)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2292.523%22%20x=%2284.031%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#f2f2f2%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.94941%201.05329)%22%20y=%2294.248%22%20x=%2294.196%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%225.399%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2294.248%22%20x=%2294.196%22%20font-size=%225.674%22%3EBack%3C/tspan%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22101.341%22%20x=%2294.196%22%20font-size=%225.674%22%3Espace%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M101.823%20111.528l-6.512.034-.017-1.993-3.036%202.428%202.951%202.529.034-1.926h6.58z%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%2025.265%2050.041)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2253.381%22%20x=%22120.123%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%2266.623%22%20x=%22133.285%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2266.623%22%20x=%22133.285%22%20font-size=%228.779%22%3E+%3C/tspan%3E%3C/text%3E%3C/g%3E%3Crect%20width=%2214.681%22%20height=%2230.164%22%20x=%2293.735%22%20y=%2296.616%22%20ry=%222.55%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-width=%22.386%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%2298.698%22%20y=%22108.718%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%223.93%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-width=%22.386%22%3E%3Ctspan%20x=%2298.698%22%20y=%22108.718%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%224.131%22%3EEnter%3C/tspan%3E%3C/text%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-9.672%2034.33)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2253.381%22%20x=%22154.015%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.96893%201.03206)%22%20y=%2272.042%22%20x=%22161.262%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2272.042%22%20x=%22161.262%22%20font-size=%227.258%22%3EPG%20UP%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%2261.331%22%20x=%22169.53%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2261.331%22%20x=%22169.53%22%20font-size=%228.779%22%3E9%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-9.683%2028.027)%22%20stroke-width=%22.677%22%3E%3Ctext%20transform=%22scale(.96893%201.03206)%22%20y=%2298.745%22%20x=%22165.064%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2298.745%22%20x=%22165.064%22%20font-size=%227.258%22%3E%60%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%22112.357%22%20x=%22164.236%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22112.357%22%20x=%22164.236%22%20font-size=%228.779%22%3E3%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%22112.247%22%20x=%22176.506%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22112.247%22%20x=%22176.506%22%20font-size=%228.779%22%3E#%3C/tspan%3E%3C/text%3E%3Crect%20ry=%225.538%22%20y=%2292.207%22%20x=%22154.316%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.9741%201.02659)%22%20y=%22100.078%22%20x=%22167.829%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22100.078%22%20x=%22167.829%22%20font-size=%228.757%22%3E6%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M162.66%20110.386l6.513.033.017-1.993%203.036%202.428-2.951%202.53-.034-1.927h-6.58z%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-9.947%2022.85)%22%20stroke-width=%22.677%22%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22166.174%22%20y=%22130.585%22%20transform=%22scale(.94893%201.05382)%22%20font-weight=%22400%22%20font-size=%226.425%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#fff%22%20stroke=%22#fff%22%3E%3Ctspan%20x=%22166.174%22%20y=%22130.585%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%226.753%22%3EF4%3C/tspan%3E%3C/text%3E%3Crect%20width=%2225.793%22%20height=%2225.752%22%20x=%22154.647%22%20y=%22129.209%22%20ry=%225.538%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22161.915%22%20y=%22145.515%22%20transform=%22scale(.96893%201.03206)%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20x=%22161.915%22%20y=%22145.515%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%227.258%22%3EPG%20DN%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:0%25%22%20x=%22170.182%22%20y=%22134.922%22%20transform=%22scale(.97048%201.03041)%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20x=%22170.182%22%20y=%22134.922%22%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20font-size=%228.779%22%3E3%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-9.426%2018.165)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22165.079%22%20x=%22153.883%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.9741%201.02659)%22%20y=%22167.859%22%20x=%22169.73%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22167.859%22%20x=%22169.73%22%20font-size=%228.757%22%3E.%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.96893%201.03206)%22%20y=%22181.379%22%20x=%22164.739%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22181.379%22%20x=%22164.739%22%20font-size=%227.258%22%3EDEL%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-10.025%20-65.803)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22201.302%22%20x=%22154.516%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97174%201.02908)%22%20y=%22213.193%22%20x=%22169.257%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2210.502%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22213.193%22%20x=%22169.257%22%20font-size=%2211.038%22%3E*%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%205.818%20-69.58)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22235.915%22%20x=%22154.193%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(1.42114%20.70366)%22%20y=%22357.423%22%20x=%22114.997%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2212.232%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22357.423%22%20x=%22114.997%22%20font-size=%2212.856%22%3E-%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-45.483%2034.271)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2253.381%22%20x=%22189.368%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%2261.331%22%20x=%22205.958%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2261.331%22%20x=%22205.958%22%20font-size=%228.779%22%3E8%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M202.063%2076.756l.032-6.078-1.852-.015%202.256-2.833%202.35%202.754-1.79.031v6.141z%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-45.62%2028.069)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%2291.999%22%20x=%22189.684%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%2298.809%22%20x=%22206.284%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%2298.809%22%20x=%22206.284%22%20font-size=%228.779%22%3E5%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-45.3%2022.707)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22129.56%22%20x=%22189.052%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#e6e6e6%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97048%201.03041)%22%20y=%22135.261%22%20x=%22205.632%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.353%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22135.261%22%20x=%22205.632%22%20font-size=%228.779%22%3E2%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M201.747%20144.009l.032%206.077-1.852.016%202.256%202.833%202.35-2.754-1.79-.032v-6.14z%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-61.07%2017.926)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22165.711%22%20x=%22189.23%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.9741%201.02659)%22%20y=%22171.347%22%20x=%22205.085%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22171.347%22%20x=%22205.085%22%20font-size=%228.757%22%3E0%3C/tspan%3E%3C/text%3E%3Ctext%20transform=%22scale(.96893%201.03206)%22%20y=%22181.992%22%20x=%22202.623%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%226.905%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22181.992%22%20x=%22202.623%22%20font-size=%227.258%22%3EINS%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-45.558%20-65.956)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22201.302%22%20x=%22189.361%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.97174%201.02908)%22%20y=%22211.011%22%20x=%22206.271%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%2210.502%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22211.011%22%20x=%22206.271%22%20font-size=%2211.038%22%3E/%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.56917%200%200%20.56917%20-5.87%2017.927)%22%20stroke-width=%22.677%22%3E%3Crect%20ry=%225.538%22%20y=%22165.711%22%20x=%22120.174%22%20height=%2225.752%22%20width=%2225.793%22%20fill=%22#ececec%22%20stroke=%22#333%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Ctext%20transform=%22scale(.9741%201.02659)%22%20y=%22171.347%22%20x=%22131.23%22%20style=%22line-height:0%25%22%20font-weight=%22400%22%20font-size=%228.332%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#4d4d4d%22%20stroke=%22#4d4d4d%22%3E%3Ctspan%20style=%22line-height:1.25;-inkscape-font-specification:sans-serif%22%20y=%22171.347%22%20x=%22131.23%22%20font-size=%228.757%22%3E00%3C/tspan%3E%3C/text%3E%3C/g%3E%3Cg%20transform=%22matrix(.46866%200%200%20.46866%2068.664%2053.655)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20r=%2214.559%22%20cy=%2273.815%22%20cx=%22100.602%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3Cg%20transform=%22matrix(.46866%200%200%20.46866%2068.664%2025.353)%22%20stroke=%22green%22%20stroke-linecap=%22round%22%3E%3Ccircle%20r=%2214.559%22%20cy=%2273.815%22%20cx=%22100.602%22%20fill=%22#ececec%22%20stroke-width=%22.608%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M106.978%2082.142h-3.353V63.316H97.54v18.678h-3.652%22%20fill=%22none%22%20stroke-width=%221.521%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"
@@ -276,6 +276,26 @@
       "design": {
         "graph": {
           "blocks": [
+            {
+              "id": "491a657d-5d51-410a-934b-7d7f6e9e04c0",
+              "type": "basic.inputLabel",
+              "data": {
+                "name": "clk",
+                "blockColor": "yellow",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": -2120,
+                "y": -352
+              }
+            },
             {
               "id": "78beda14-ab00-4ac8-aec1-45c727331d83",
               "type": "basic.input",
@@ -313,6 +333,26 @@
               }
             },
             {
+              "id": "7aaed2b9-a1be-4dde-9bf7-3281e2405fd6",
+              "type": "basic.outputLabel",
+              "data": {
+                "name": "clk",
+                "blockColor": "yellow",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": -2064,
+                "y": 24
+              }
+            },
+            {
               "id": "f1a7e8c3-fd8d-454f-b0d8-23af85c796e6",
               "type": "basic.output",
               "data": {
@@ -321,6 +361,66 @@
               "position": {
                 "x": 304,
                 "y": 40
+              }
+            },
+            {
+              "id": "19580f79-b4fb-4de5-a30e-8c15e32b4ee4",
+              "type": "basic.outputLabel",
+              "data": {
+                "name": "clk",
+                "blockColor": "yellow",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": -2448,
+                "y": 88
+              }
+            },
+            {
+              "id": "7b6b4e71-c9ef-4867-bc73-c274949bbcc2",
+              "type": "basic.outputLabel",
+              "data": {
+                "name": "clk",
+                "blockColor": "yellow",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": -1920,
+                "y": 168
+              }
+            },
+            {
+              "id": "5cfc4a47-d503-4556-b944-421aa2eee784",
+              "type": "basic.outputLabel",
+              "data": {
+                "name": "clk",
+                "blockColor": "yellow",
+                "virtual": true,
+                "pins": [
+                  {
+                    "index": "0",
+                    "name": "NULL",
+                    "value": "NULL"
+                  }
+                ]
+              },
+              "position": {
+                "x": -2184,
+                "y": 184
               }
             },
             {
@@ -370,7 +470,7 @@
                 "local": true
               },
               "position": {
-                "x": -2088,
+                "x": -2320,
                 "y": -8
               }
             },
@@ -413,8 +513,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1632,
-                "y": -872
+                "x": -1472,
+                "y": -904
               },
               "size": {
                 "width": 552,
@@ -425,7 +525,7 @@
               "id": "26f804ae-b3e7-4d19-93ab-ca7d03234e99",
               "type": "519d315d08b3a8cc1aac53c9d14d2fd81d67033f",
               "position": {
-                "x": -2088,
+                "x": -2320,
                 "y": 88
               },
               "size": {
@@ -441,8 +541,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1648,
-                "y": -776
+                "x": -1536,
+                "y": -816
               },
               "size": {
                 "width": 112,
@@ -457,8 +557,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1280,
-                "y": -888
+                "x": -1128,
+                "y": -936
               },
               "size": {
                 "width": 88,
@@ -473,8 +573,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1528,
-                "y": -888
+                "x": -1360,
+                "y": -936
               },
               "size": {
                 "width": 88,
@@ -489,8 +589,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1648,
-                "y": -688
+                "x": -1536,
+                "y": -728
               },
               "size": {
                 "width": 112,
@@ -505,8 +605,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1208,
-                "y": -888
+                "x": -1056,
+                "y": -936
               },
               "size": {
                 "width": 88,
@@ -521,8 +621,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1448,
-                "y": -888
+                "x": -1296,
+                "y": -936
               },
               "size": {
                 "width": 88,
@@ -537,8 +637,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1368,
-                "y": -888
+                "x": -1216,
+                "y": -936
               },
               "size": {
                 "width": 88,
@@ -553,8 +653,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1656,
-                "y": -608
+                "x": -1544,
+                "y": -648
               },
               "size": {
                 "width": 112,
@@ -569,8 +669,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1656,
-                "y": -520
+                "x": -1544,
+                "y": -560
               },
               "size": {
                 "width": 112,
@@ -585,8 +685,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1656,
-                "y": -440
+                "x": -1544,
+                "y": -480
               },
               "size": {
                 "width": 112,
@@ -601,8 +701,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1656,
-                "y": -360
+                "x": -1544,
+                "y": -400
               },
               "size": {
                 "width": 112,
@@ -617,7 +717,7 @@
                 "readonly": true
               },
               "position": {
-                "x": -2120,
+                "x": -2352,
                 "y": -80
               },
               "size": {
@@ -679,18 +779,6 @@
               "size": {
                 "width": 232,
                 "height": 72
-              }
-            },
-            {
-              "id": "ebce0970-803e-4eb1-b026-4083d583bba0",
-              "type": "1c7dae7144d376f2ee4896fcc502a29110e2db37",
-              "position": {
-                "x": -1928,
-                "y": 240
-              },
-              "size": {
-                "width": 96,
-                "height": 64
               }
             },
             {
@@ -886,18 +974,6 @@
               }
             },
             {
-              "id": "c8343976-9c1b-4150-ae4a-757c377f6e6d",
-              "type": "1c7dae7144d376f2ee4896fcc502a29110e2db37",
-              "position": {
-                "x": -1776,
-                "y": 240
-              },
-              "size": {
-                "width": 96,
-                "height": 64
-              }
-            },
-            {
               "id": "324df1b7-313f-45ee-a052-dc11a718ad57",
               "type": "3bfe20ce12a1017a3d0c324d97fac7a471e413ad",
               "position": {
@@ -917,8 +993,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1960,
-                "y": 328
+                "x": -1992,
+                "y": 336
               },
               "size": {
                 "width": 248,
@@ -1421,8 +1497,8 @@
                 "readonly": true
               },
               "position": {
-                "x": -1080,
-                "y": -800
+                "x": -848,
+                "y": -768
               },
               "size": {
                 "width": 464,
@@ -1437,7 +1513,7 @@
                 "readonly": true
               },
               "position": {
-                "x": -1016,
+                "x": -768,
                 "y": -840
               },
               "size": {
@@ -1560,9 +1636,95 @@
                 "width": 96,
                 "height": 64
               }
+            },
+            {
+              "id": "32bad487-0e53-400b-86dc-18b880f086e2",
+              "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
+              "position": {
+                "x": -1384,
+                "y": 120
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "358dfc75-1d76-4e5b-9a08-c7531d7abb64",
+              "type": "58ed2b5c7e33e2f215ccba6c101d9ea4ff60f284",
+              "position": {
+                "x": -2048,
+                "y": 224
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
+            },
+            {
+              "id": "901c83a6-1888-4c96-b7d1-21c8cc6ae095",
+              "type": "58ed2b5c7e33e2f215ccba6c101d9ea4ff60f284",
+              "position": {
+                "x": -1776,
+                "y": 224
+              },
+              "size": {
+                "width": 96,
+                "height": 64
+              }
             }
           ],
           "wires": [
+            {
+              "source": {
+                "block": "78beda14-ab00-4ac8-aec1-45c727331d83",
+                "port": "out"
+              },
+              "target": {
+                "block": "491a657d-5d51-410a-934b-7d7f6e9e04c0",
+                "port": "inlabel"
+              }
+            },
+            {
+              "source": {
+                "block": "19580f79-b4fb-4de5-a30e-8c15e32b4ee4",
+                "port": "outlabel"
+              },
+              "target": {
+                "block": "26f804ae-b3e7-4d19-93ab-ca7d03234e99",
+                "port": "503869f1-ddfd-4d13-93ad-5f90281ba88c"
+              }
+            },
+            {
+              "source": {
+                "block": "5cfc4a47-d503-4556-b944-421aa2eee784",
+                "port": "outlabel"
+              },
+              "target": {
+                "block": "358dfc75-1d76-4e5b-9a08-c7531d7abb64",
+                "port": "3943e194-090b-4553-9df3-88bc4b17abc2"
+              }
+            },
+            {
+              "source": {
+                "block": "7aaed2b9-a1be-4dde-9bf7-3281e2405fd6",
+                "port": "outlabel"
+              },
+              "target": {
+                "block": "008d2d92-c10f-4d81-879c-f5ef1e64edf2",
+                "port": "c90da543-4b9c-4f4c-a5fa-7e1166ee1dd3"
+              }
+            },
+            {
+              "source": {
+                "block": "7b6b4e71-c9ef-4867-bc73-c274949bbcc2",
+                "port": "outlabel"
+              },
+              "target": {
+                "block": "901c83a6-1888-4c96-b7d1-21c8cc6ae095",
+                "port": "3943e194-090b-4553-9df3-88bc4b17abc2"
+              }
+            },
             {
               "source": {
                 "block": "20c0c339-c8a9-48ff-bbb3-59fd2ab0e8a3",
@@ -1610,13 +1772,13 @@
                 "port": "c138a610-b61f-4e7c-bb8a-c4f3b0b9f95c"
               },
               "target": {
-                "block": "ebce0970-803e-4eb1-b026-4083d583bba0",
+                "block": "358dfc75-1d76-4e5b-9a08-c7531d7abb64",
                 "port": "bf2f0c53-2d04-4cba-aa70-2df85502d24f"
               },
               "vertices": [
                 {
-                  "x": -1976,
-                  "y": 184
+                  "x": -2208,
+                  "y": 192
                 }
               ]
             },
@@ -1736,17 +1898,17 @@
             },
             {
               "source": {
-                "block": "ebce0970-803e-4eb1-b026-4083d583bba0",
+                "block": "358dfc75-1d76-4e5b-9a08-c7531d7abb64",
                 "port": "aa84d31e-cd92-44c7-bb38-c7a4cd903a78"
               },
               "target": {
-                "block": "c8343976-9c1b-4150-ae4a-757c377f6e6d",
+                "block": "901c83a6-1888-4c96-b7d1-21c8cc6ae095",
                 "port": "bf2f0c53-2d04-4cba-aa70-2df85502d24f"
               }
             },
             {
               "source": {
-                "block": "c8343976-9c1b-4150-ae4a-757c377f6e6d",
+                "block": "901c83a6-1888-4c96-b7d1-21c8cc6ae095",
                 "port": "aa84d31e-cd92-44c7-bb38-c7a4cd903a78"
               },
               "target": {
@@ -2141,52 +2303,6 @@
             },
             {
               "source": {
-                "block": "78beda14-ab00-4ac8-aec1-45c727331d83",
-                "port": "out"
-              },
-              "target": {
-                "block": "c8343976-9c1b-4150-ae4a-757c377f6e6d",
-                "port": "3943e194-090b-4553-9df3-88bc4b17abc2"
-              }
-            },
-            {
-              "source": {
-                "block": "78beda14-ab00-4ac8-aec1-45c727331d83",
-                "port": "out"
-              },
-              "target": {
-                "block": "008d2d92-c10f-4d81-879c-f5ef1e64edf2",
-                "port": "c90da543-4b9c-4f4c-a5fa-7e1166ee1dd3"
-              }
-            },
-            {
-              "source": {
-                "block": "78beda14-ab00-4ac8-aec1-45c727331d83",
-                "port": "out"
-              },
-              "target": {
-                "block": "ebce0970-803e-4eb1-b026-4083d583bba0",
-                "port": "3943e194-090b-4553-9df3-88bc4b17abc2"
-              }
-            },
-            {
-              "source": {
-                "block": "78beda14-ab00-4ac8-aec1-45c727331d83",
-                "port": "out"
-              },
-              "target": {
-                "block": "26f804ae-b3e7-4d19-93ab-ca7d03234e99",
-                "port": "503869f1-ddfd-4d13-93ad-5f90281ba88c"
-              },
-              "vertices": [
-                {
-                  "x": -2136,
-                  "y": -160
-                }
-              ]
-            },
-            {
-              "source": {
                 "block": "fb0ba9f5-e86d-4aed-ae47-361c7189a999",
                 "port": "aa84d31e-cd92-44c7-bb38-c7a4cd903a78"
               },
@@ -2226,6 +2342,22 @@
                 "port": "d518f379-4b2a-4a73-9b6c-3a3d39cf228b"
               },
               "size": 5
+            },
+            {
+              "source": {
+                "block": "32bad487-0e53-400b-86dc-18b880f086e2",
+                "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
+              },
+              "target": {
+                "block": "5af473b0-1242-433d-be30-fafc70c8c064",
+                "port": "3b77778a-732e-4bb7-9169-b93066877379"
+              },
+              "vertices": [
+                {
+                  "x": -1248,
+                  "y": 168
+                }
+              ]
             }
           ]
         }
@@ -5280,6 +5412,315 @@
                 "port": "in"
               },
               "size": 5
+            }
+          ]
+        }
+      }
+    },
+    "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640": {
+      "package": {
+        "name": "bit-0",
+        "version": "0.2",
+        "description": "Constant bit 0",
+        "author": "Jesus Arroyo",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22125.776%22%20height=%22197.727%22%20viewBox=%220%200%20110.54641%20173.78236%22%3E%3Cpath%20d=%22M69.664%20107.353l13.494%2029.374L70.719%20168.5l13.788%204.283m-42.761-62.916S38.148%20136.825%2033.22%20139C28.298%20141.18%201%20161.403%201%20161.403l8.729%2010.636%22%20fill=%22none%22%20stroke=%22green%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cg%20style=%22line-height:0%25%22%3E%3Cpath%20d=%22M65.536%2024.562q-9.493%200-15.876%208.251-6.303%208.156-8.855%2023.604-2.553%2015.448%201.037%2023.7%203.59%208.155%2013.084%208.155%209.334%200%2015.636-8.155%206.383-8.252%208.936-23.7%202.553-15.448-1.037-23.604-3.59-8.251-12.925-8.251zm4.07-24.564q23.056%200%2033.507%2014.969%2010.53%2014.968%206.143%2041.45-4.388%2026.482-19.865%2041.45-15.478%2014.968-38.534%2014.968-23.136%200-33.667-14.968Q6.659%2082.9%2011.047%2056.417q4.387-26.482%2019.865-41.45Q46.469-.002%2069.605-.002z%22%20style=%22line-height:1.25;-inkscape-font-specification:'sans-serif%20Bold%20Italic'%22%20font-style=%22italic%22%20font-weight=%22700%22%20font-size=%22179.184%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22/%3E%3C/g%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "3d584b0a-29eb-47af-8c43-c0822282ef05",
+              "type": "basic.output",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 456,
+                "y": 120
+              }
+            },
+            {
+              "id": "61331ec5-2c56-4cdd-b607-e63b1502fa65",
+              "type": "basic.code",
+              "data": {
+                "code": "//-- Constant bit-0\nassign q = 1'b0;\n\n",
+                "params": [],
+                "ports": {
+                  "in": [],
+                  "out": [
+                    {
+                      "name": "q"
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 168,
+                "y": 112
+              },
+              "size": {
+                "width": 248,
+                "height": 80
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "61331ec5-2c56-4cdd-b607-e63b1502fa65",
+                "port": "q"
+              },
+              "target": {
+                "block": "3d584b0a-29eb-47af-8c43-c0822282ef05",
+                "port": "in"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "58ed2b5c7e33e2f215ccba6c101d9ea4ff60f284": {
+      "package": {
+        "name": "sys-DFF-verilog",
+        "version": "3",
+        "description": "System - D Flip-flop. Capture data every system clock cycle. Verilog implementation",
+        "author": "Juan González-Gómez (Obijuan)",
+        "image": "%3Csvg%20width=%22196.313%22%20height=%22216.83%22%20viewBox=%220%200%2051.941051%2057.369679%22%20xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cg%20transform=%22translate(-52.22%20-48.028)%22%3E%3Crect%20width=%2224.412%22%20height=%2213.185%22%20x=%2279.352%22%20y=%2253.67%22%20ry=%222.247%22%20fill=%22#fff%22%20stroke=%22#000%22%20stroke-width=%22.794%22%20stroke-linecap=%22round%22/%3E%3Cg%20stroke=%22#000%22%20stroke-width=%221.442%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%3E%3Cpath%20d=%22M77.902%2088.18l13.607%2016.672-6.918-20.534%22%20fill=%22#ccc%22%20stroke-width=%221.0924880399999999%22/%3E%3Cpath%20d=%22M70.517%2080.116l-9.232-19.613-6.45%203.725-2.07-3.584%2020.905-12.07%202.07%203.584-6.093%203.518%2012.03%2018.222s5.4-2.025%208.536.74c3.136%202.766%202.52%204.92%202.887%204.773L69.412%2093.049s-2.848-3.696-2.16-6.796c.687-3.1%203.265-6.137%203.265-6.137z%22%20fill=%22red%22%20stroke-width=%221.0924880399999999%22/%3E%3C/g%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2281.296%22%20y=%2263.239%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%20stroke-width=%22.265%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20x=%2281.296%22%20y=%2263.239%22%20font-weight=%22700%22%3ESys%3C/tspan%3E%3C/text%3E%3C/g%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "54dbabeb-8aef-4184-8fdc-87528aca29a3",
+              "type": "basic.output",
+              "data": {
+                "name": "nc"
+              },
+              "position": {
+                "x": 816,
+                "y": 112
+              }
+            },
+            {
+              "id": "3943e194-090b-4553-9df3-88bc4b17abc2",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": true
+              },
+              "position": {
+                "x": 208,
+                "y": 184
+              }
+            },
+            {
+              "id": "aa84d31e-cd92-44c7-bb38-c7a4cd903a78",
+              "type": "basic.output",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 816,
+                "y": 232
+              }
+            },
+            {
+              "id": "bf2f0c53-2d04-4cba-aa70-2df85502d24f",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": false
+              },
+              "position": {
+                "x": 208,
+                "y": 280
+              }
+            },
+            {
+              "id": "65194b18-5d2a-41b2-bd86-01be99978ad6",
+              "type": "basic.constant",
+              "data": {
+                "name": "",
+                "value": "0",
+                "local": false
+              },
+              "position": {
+                "x": 512,
+                "y": 64
+              }
+            },
+            {
+              "id": "bdc170f0-4468-4137-bd79-4624c9cadf2b",
+              "type": "basic.code",
+              "data": {
+                "code": "//-- Initial value\nreg qi = INI;\n\n//-- Capture the input data  \n//-- on the rising edge of  \n//-- the system clock\nalways @(posedge clk)\n  qi <= d;\n  \n//-- Connect the register with the\n//-- output\nassign q = qi;",
+                "params": [
+                  {
+                    "name": "INI"
+                  }
+                ],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "clk"
+                    },
+                    {
+                      "name": "d"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "q"
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": 384,
+                "y": 168
+              },
+              "size": {
+                "width": 352,
+                "height": 192
+              }
+            },
+            {
+              "id": "53d11290-50b3-40fb-b253-222cb296b075",
+              "type": "basic.info",
+              "data": {
+                "info": "Parameter: Initial value",
+                "readonly": true
+              },
+              "position": {
+                "x": 488,
+                "y": 32
+              },
+              "size": {
+                "width": 208,
+                "height": 40
+              }
+            },
+            {
+              "id": "c25a29cd-d5ed-435e-b375-e6d5557660d8",
+              "type": "basic.info",
+              "data": {
+                "info": "System clock",
+                "readonly": true
+              },
+              "position": {
+                "x": 208,
+                "y": 160
+              },
+              "size": {
+                "width": 120,
+                "height": 32
+              }
+            },
+            {
+              "id": "ecafc6fa-330b-4ba7-aa67-40b3ea48f1f1",
+              "type": "basic.info",
+              "data": {
+                "info": "Input data",
+                "readonly": true
+              },
+              "position": {
+                "x": 224,
+                "y": 256
+              },
+              "size": {
+                "width": 112,
+                "height": 40
+              }
+            },
+            {
+              "id": "df95c331-682d-4733-a62d-ad9fcd75f96a",
+              "type": "basic.info",
+              "data": {
+                "info": "Output",
+                "readonly": true
+              },
+              "position": {
+                "x": 840,
+                "y": 200
+              },
+              "size": {
+                "width": 80,
+                "height": 40
+              }
+            },
+            {
+              "id": "dd8217df-b56d-49a9-ae94-f5e0c96e1460",
+              "type": "basic.info",
+              "data": {
+                "info": "# D Flip-Flop  (system)\n\nIt stores the input data that arrives at cycle n  \nIts output is shown in the cycle n+1",
+                "readonly": true
+              },
+              "position": {
+                "x": 144,
+                "y": -136
+              },
+              "size": {
+                "width": 488,
+                "height": 104
+              }
+            },
+            {
+              "id": "92bfbcf5-6016-4ad8-963c-c5c7747304d0",
+              "type": "basic.info",
+              "data": {
+                "info": "Not connected",
+                "readonly": true
+              },
+              "position": {
+                "x": 808,
+                "y": 88
+              },
+              "size": {
+                "width": 176,
+                "height": 32
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "3943e194-090b-4553-9df3-88bc4b17abc2",
+                "port": "out"
+              },
+              "target": {
+                "block": "bdc170f0-4468-4137-bd79-4624c9cadf2b",
+                "port": "clk"
+              }
+            },
+            {
+              "source": {
+                "block": "bdc170f0-4468-4137-bd79-4624c9cadf2b",
+                "port": "q"
+              },
+              "target": {
+                "block": "aa84d31e-cd92-44c7-bb38-c7a4cd903a78",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "65194b18-5d2a-41b2-bd86-01be99978ad6",
+                "port": "constant-out"
+              },
+              "target": {
+                "block": "bdc170f0-4468-4137-bd79-4624c9cadf2b",
+                "port": "INI"
+              }
+            },
+            {
+              "source": {
+                "block": "bf2f0c53-2d04-4cba-aa70-2df85502d24f",
+                "port": "out"
+              },
+              "target": {
+                "block": "bdc170f0-4468-4137-bd79-4624c9cadf2b",
+                "port": "d"
+              }
             }
           ]
         }
